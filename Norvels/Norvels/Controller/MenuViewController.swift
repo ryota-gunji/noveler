@@ -12,7 +12,7 @@ class MenuViewController: UIViewController {
     @IBOutlet weak var menuView: UIView!
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("追加")
     }
     
 
