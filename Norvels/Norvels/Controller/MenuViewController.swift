@@ -13,6 +13,7 @@ class MenuViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("追加")
+        print("追加2")
     }
     
 
